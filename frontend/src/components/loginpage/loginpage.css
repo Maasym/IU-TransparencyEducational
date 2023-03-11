@@ -1,0 +1,63 @@
+.loginPageContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #4B4453;
+}
+
+.loginForm{
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    width: 30vh;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    background-color: #B0A8B9;
+    border-radius: 15px;
+}
+
+.emailLogin{
+    display: flex;
+    width: 15em;
+    flex-direction: column;
+}
+
+.passwordLogin{
+    display: flex;
+    width: 15em;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.loginButton{
+    width: 6em;
+    border-radius: 10px;
+}
+
+.register{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginHeader{
+    font-size: 2em;
+}
+
+.loginTitle{
+    display: flex;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    font-size: 3em;
+    color: #B0A8B9;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+}

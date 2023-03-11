@@ -1,0 +1,112 @@
+.createTicket{
+    background-color: #B0A8B9;
+
+}
+
+.createTicketContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100vw;
+}
+
+.createTicketForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(0, 0, 0, .25);
+    border-radius: 15px;
+    padding: 2em;
+}
+
+.createTicketTitle{
+    display: flex;
+    flex-direction: column;
+}
+
+.createTicketTitleInput{
+    width: 20vw;
+}
+
+.createTicketText{
+    display: flex;
+    flex-direction: column;
+}
+
+.createTicketTextInput{
+    width: 20vw;
+    height: 20vh;
+    resize: none;
+}
+
+.createTicketModule{
+    display: flex;
+    flex-direction: column;
+}
+
+.createTicketCategory{
+    display: flex;
+    flex-direction: column;
+}
+
+.createTicketCategoryInput{
+    width: 15em;
+}
+.createTicketModuleInput{
+    width: 15em;
+}
+.createTicketPageInput{
+    width: 15em;
+}
+
+.createTicketPage{
+    display: flex;
+    flex-direction: column;
+}
+
+.createTicketTitleCategory{
+    display: flex;
+    gap: 3em;
+
+}
+
+.createTicketTextPage{
+    display: flex;
+    gap: 3em;
+    margin-top: 2em;
+
+}
+
+.createTicketUpload{
+    display: flex;
+    flex-direction: column;
+}
+
+.createTicketPageModule{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 3em;
+}
+
+.createTicketButton{
+    width: 10em;
+    height: 2em;
+    border-radius: 10px;
+}
+
+.createTicketUploadInput{
+    width: 13em;
+}
+
+.createTicketHeader{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+

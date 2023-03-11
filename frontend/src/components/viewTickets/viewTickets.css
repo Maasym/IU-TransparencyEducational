@@ -1,0 +1,83 @@
+.viewTicket{
+    background-color: #B0A8B9;
+}
+
+.viewTicketPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.viewTicketsStatusBoxes{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.viewTicketStatusFilter{
+    display: flex;
+    flex-direction: column;
+}
+
+.viewTicketModuleFilter{
+    display: flex;
+    flex-direction: column;
+}
+
+.viewTicketContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    margin-top: 2em;
+}
+
+.viewTicketForm{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, .25);
+    border-radius: 15px;
+    color: black;
+    margin-bottom: 1em;
+}
+
+.titleModule{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+    gap: 1em;
+    margin-left: 1em;
+}
+
+.statusCategory{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+    gap: 1em;
+    margin-right: 1em;
+}
+
+.dateViewTicket{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+    align-items: center;
+    margin-bottom: 2em;
+}
+
+.viewTicketID{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.viewTicketTop{
+    display: flex;
+    gap: 5em;
+    justify-content: center;
+    align-items: center;
+}
